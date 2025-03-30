@@ -5,9 +5,7 @@ void usuario(nome, idade) {
 }
 
 void main() {
-  String? nome;
   String? nomeDigitado;
-  int idade;
   int idadeDigitada;
 
   print("Digite seu nome: ");
